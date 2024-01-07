@@ -1,3 +1,7 @@
+<a href="{{ post.url }}"</a>
+<a href="{{ post.title }}"</a>
+<a href="{{ contents }}"</a>
+
 
 <ul>
   {% for post in site.posts %}

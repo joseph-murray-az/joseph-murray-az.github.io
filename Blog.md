@@ -1,4 +1,7 @@
 | [Home](index.md) | [Blog](About.md)
+
+## Past Posts
+
 <ul>
   {% for post in site.posts %}
     <li>

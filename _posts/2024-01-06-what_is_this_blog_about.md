@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "What is this blog about?"
+---
+
+# Welcome
+
 What is this blog about?
 
 This blog is about product management.  Or perhaps random thoughts about product management from a practicing product manager.  I am starting with a loose plan and a goal to maintain a consistent flow of posts throughout the year.  Let's see where this goes. 

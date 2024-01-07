@@ -4,4 +4,3 @@ show_downloads: true
 google_analytics: false
 disqus: false
 theme: jekyll-theme-cayman
-plugins: - jemoji

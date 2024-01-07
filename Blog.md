@@ -1,3 +1,4 @@
+| [Home](index.html) | [About](About.html) | [Blog](Blog.html)
 
 ## Past Posts
 

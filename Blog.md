@@ -1,4 +1,4 @@
-| [Home](index.md) | [Blog](About.md) | [Blog2](_posts\Blog2.md)
+| [Home](index.md) | [Blog](About.md)
 <ul>
   {% for post in site.posts %}
     <li>

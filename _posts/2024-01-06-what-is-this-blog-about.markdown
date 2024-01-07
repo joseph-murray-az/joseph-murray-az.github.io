@@ -1,6 +1,8 @@
 ---
 ---
 
+| [Home](index.html) | [About](About.html) | [Blog](Blog.html)
+
 # Welcome
 
 What is this blog about?

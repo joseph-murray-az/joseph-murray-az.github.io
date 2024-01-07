@@ -1,4 +1,4 @@
-| Home | About
+| [Home](README.md) | [About](About.md)
 
 ## Blog Posts
 

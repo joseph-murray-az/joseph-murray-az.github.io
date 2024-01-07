@@ -6,5 +6,3 @@
     </li>
   {% endfor %}
 </ul>
-
-[Blog](Blog.md){{ post.title }}

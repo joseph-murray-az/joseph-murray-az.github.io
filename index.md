@@ -1,8 +1,7 @@
-| [Home](index.md) | [About](About.md) | [Blog](Blog.md)
+---
+---
 
----
-layout: default
----
+| [Home](index.md) | [About](About.md) | [Blog](Blog.md)
 
 <div class="posts">
   {% for post in site.posts %}

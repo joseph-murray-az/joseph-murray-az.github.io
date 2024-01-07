@@ -1,1 +1,1 @@
-### Home Page
+| Home | About | Blog

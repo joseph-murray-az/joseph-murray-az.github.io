@@ -1,1 +1,1 @@
-| [Home](README.md) | About(About.md) | Blog(Blog.md)
+| [Home](README.md) | [About](About.md) | [Blog](Blog.md)

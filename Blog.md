@@ -1,4 +1,4 @@
-| [Home](index.md) | [Blog](About.md)
+| [Home](index.md) | [About](About.md)
 
 ## Past Posts
 

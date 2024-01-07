@@ -1,4 +1,8 @@
-| [Home](index.html) | [About](About.html) | [Blog](Blog.html)
+---
+layout: page
+title: Blog
+permalink: /blog/
+---
 
 ## Past Posts
 

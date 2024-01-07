@@ -1,6 +1,8 @@
 | [Home](README.md) | [About](About.md)
 
-## Blog Posts
+---
+title: Blog
+---
 
 <ul>
   {% for post in site.posts %}

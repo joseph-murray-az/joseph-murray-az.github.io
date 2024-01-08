@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: My home page
 ---
 
 # Home page title 1

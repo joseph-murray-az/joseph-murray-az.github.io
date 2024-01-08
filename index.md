@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Joseph Murray, Product Manager
+title: Home
 ---
 
 # Home page title 1

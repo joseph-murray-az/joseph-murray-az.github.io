@@ -1,6 +1,6 @@
 ---
 layout: page
-title: On Product Management
+title: On product management
 permalink: /blog/
 ---
 

@@ -41,4 +41,6 @@ And this is the **most awesome**
       </head>
     </html>
 
+[Linkedn]({{site.linkedin}})
+
 {% include disclaimer.html %}

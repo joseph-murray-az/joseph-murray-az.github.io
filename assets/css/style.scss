@@ -1,0 +1,15 @@
+---
+---
+
+$header-bg-color: red;
+
+@import "{{ site.theme }};
+
+.main-content h2 {
+  color: purple;
+}
+
+b, strong {
+  color: red
+}
+  

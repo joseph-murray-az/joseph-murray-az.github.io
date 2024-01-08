@@ -40,3 +40,5 @@ And this is the **most awesome**
       <head>
       </head>
     </html>
+
+{% include disclaimer.html %}

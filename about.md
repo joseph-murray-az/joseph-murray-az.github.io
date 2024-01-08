@@ -9,6 +9,6 @@ Some information about you!
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### Contact
 
-[email@domain.com](mailto:email@domain.com)
+<a href="mailto:{{ site.email | encode_email }}" title="Contact me">Contact me</a>

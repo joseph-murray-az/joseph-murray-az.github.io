@@ -3,13 +3,12 @@
 
 $header-bg-color: red;
 
-@import "{{ site.theme }};
+@import "{{ site.theme }}";
 
-.main-content h2 {
+.main-content h1 {
   color: purple;
 }
 
 b, strong {
   color: red
 }
-  

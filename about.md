@@ -14,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 <a href="mailto:{{ site.email | encode_email }}" title="Email">Email</a>
 
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]({{site.linkedin}})
+[LinkedIn]({{site.linkedin}})

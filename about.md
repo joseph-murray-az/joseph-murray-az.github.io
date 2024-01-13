@@ -4,8 +4,6 @@ title: Information about me!
 permalink: /about/
 ---
 
-Joseph Murray, Senior Product Manager
-
 ### About me
 
 Welcome to my site!  My name is Joseph Murray and I am a senior product manager.  My career has spanned three decades and, in that time, I have been a software engineer, quality engineer, project manager, program manager and, for the past eight years, product manager.

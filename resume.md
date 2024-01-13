@@ -8,7 +8,7 @@ permalink: /resume/
 
 Accomplished Senior Product Manager with a history of producing successful software products that provide value, solve problems, and increase market share for startup companies and global enterprises.  Able to break down complex strategic initiatives into manageable and measurable parts, ensuring efficient use of resources while delivering value to stakeholders and end-users.  Known as a highly skilled technical leader with the ability to solve business problems and motivate technical teams to high levels of performance.
 
-##### EXPERIENCE
+### EXPERIENCE
 
 StrongMind, Chandler, AZ
 Role: Senior Product Manager, August 2021 – Present
@@ -38,7 +38,7 @@ Transitioned from technical consultant to software manager leading projects and 
 - As SAP Agile trainer, rolled out location wide agile initiative to development, consulting, and solutions teams, resulting in location transformation to lean organization
 - As Program Manager, ran program for lean delivery of flagship SAP Promotion Management for Retail resulting in multiple successful deliveries leading to an increase in global market share
 
-##### ADDITIONAL RELEVANT EXPERIENCE
+### ADDITIONAL RELEVANT EXPERIENCE
 
 - Senior Technical Consultant, Khimetrics / SAP, Scottsdale, AZ
 - Senior Java Architect, Computer Guidance Corporation, Scottsdale, AZ
@@ -46,7 +46,7 @@ Transitioned from technical consultant to software manager leading projects and 
 - Senior Technical Lead, MC Squared / Compuware Corporation, Phoenix, AZ
 - Systems Engineering Development Program, Electronic Data Systems, CA, TX, AZ
 
-##### EDUCATION
+### EDUCATION
 
 - Master of Business Administration (MBA), Arizona State University
 - Bachelor of Science (BS), Computer Information Systems, Arizona State University

@@ -25,3 +25,5 @@ Thank you to those who created this foundation for people like me to use.
 <a href="mailto:{{ site.email | encode_email }}" title="Email">Email</a>
 
 [LinkedIn]({{site.linkedin}})
+
+[Resume]({{site.baseurl}}/resume)

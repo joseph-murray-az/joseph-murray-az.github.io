@@ -3,44 +3,15 @@ layout: default
 title: My home page
 ---
 
-# Home page title 1
+# Professional site for Joseph Murray, Senior Product Manager
 
-## Home page title 2
+> All is possible when emptiness is possible.
+>> Nagarjuna
 
-### Home page title 3
-
-#### Home page title 4
-
-##### Home page title 5
-
-###### Home page title 6
-
-This will be awesome stuff.
-And this will be more awesome stuff.
-And this is the **most awesome**
-
-*This will be some awesome stuff.*
-
-> Here is an example.
->> The example is here.
-
-*An Ordered List*
-1. First
-2. Second
-3. Third
-4. Fourth
-
-*An unordered list*
-- First
-- Second
-- Third
-- Fourth
-
-    <html>
-      <head>
-      </head>
-    </html>
-
-[Linkedn]({{site.linkedin}})
+*What can you find here?*
+- Context
+- Thoughts
+- Details
+- There is no fourth thing
 
 {% include disclaimer.html %}

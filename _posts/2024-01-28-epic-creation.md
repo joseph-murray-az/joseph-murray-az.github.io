@@ -15,4 +15,4 @@ By answering the three questions and providing meaningful (i.e. quantifiable) me
 
 It seems like common knowledge that the problem needs to be clearly defined before it can be solved.  In practice, it is not uncommon for teams to work on solutions without knowing the problem to solve. 
 
-By thinking through the three questions, and especially by defining measures that prove success, I find I am better able to create a well written epic.
+By thinking through the three questions, and especially by defining measures that prove success, I find I am better able to state the problem and value of the solution.

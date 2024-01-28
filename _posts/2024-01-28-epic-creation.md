@@ -13,6 +13,6 @@ The most important and difficult part of creating the epic I have found is the c
 
 By answering the three questions and providing meaningful (i.e. quantifiable) measures, we avoid working on a solution, leaving this to the team, and instead focus on the desired results.
 
-It seems like common knowledge that the problem needs to be clearly defined before it can be solved.  In practice, it is not uncommon for teams to work on solutions without knowing the problem to solve. 
+It seems like common knowledge that the problem needs to be clearly defined before it can be solved.  In practice, it is not uncommon for teams to work on solutions without a clear problem statement. 
 
 By thinking through the three questions, and especially by defining measures that prove success, I find I am better able to define the problem and the value that will be derived from the cost of the solution.

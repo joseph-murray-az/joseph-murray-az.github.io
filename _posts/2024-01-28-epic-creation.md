@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: Epic creation
+---
 
 In my current practice, we define an epic to contain these four parts:  What?  Why?  What does success look like?  Measures.
 

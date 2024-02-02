@@ -5,7 +5,7 @@ title: Measuring engagement
 
 In my current field, education technology, the ultimate goal is to positively impact student outcomes.  In other words, to increase student graduation rates, reduce dropouts, improve attendance, elevate grades and scores.  
 
-As a goal, positively impacting student outcomes is broad and general, qualitative, and outside of the control of the product manager:  How could a product manager possibly control for the myriad of external factors that interfere with a student's performance?
+As a goal, positively impacting student outcomes is broad and mostly outside of the control of the product manager:  How could a product manager possibly control for the myriad of external factors that interfere with a student's performance?
 
 Rather than  focusing on what can impact student outcomes, what if we turn the problem around and focus on the product itself?  It is a given that software that is not used will have no impact, so we can start by measuring software use or engagement.
 

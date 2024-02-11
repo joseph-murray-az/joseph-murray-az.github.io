@@ -11,4 +11,6 @@ The first step is to determine what comprises a conversion.  In ecommerce, a con
 
 In order to do this, I needed to change my setup to use Google Tag Manager (GTM).  You can see how the additional features provided by integrating GTM has already caused me to expand my usage of Google products, which provides more data for targeted advertising.  Once I had GTM setup, I created a new tag in GTM that fired each time the approval button was clicked, and I configured this tag as a conversion in GA4.  In this case, since only parents and guardians had access to the approval button, I did not have to add a variable to determine the user role.
 
-In the end, I was able adapt the tools to measure the success criteria for the epic.  Although the tools we chose were "free," there was a cost in time and effort.  But there was also a lesson, an example of how each product contributes to the company vision.  All things are connected, all are dependent.
+In the end, I was able adapt the tools to measure the success criteria for the epic.  Although the tools we chose were "free," there was a cost in time and effort.  But there was also a lesson, an example of how each product contributes to the company vision.  
+
+All things are connected, all are dependent.

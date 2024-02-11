@@ -13,5 +13,3 @@ title: My home page
 - Thoughts
 - Details
 - There is no fourth thing
-
-{% include disclaimer.html %}

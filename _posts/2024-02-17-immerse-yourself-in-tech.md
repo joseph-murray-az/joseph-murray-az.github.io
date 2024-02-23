@@ -21,4 +21,4 @@ During this period, I heard the CEO of one of the largest US grocery chains talk
 
 I later learned that this store chain was comprised of acquisitions, and each acquisition brought with it different disparate systems that did not fit together.  With our software, product prices from all systems could be viewed and set from one ugly UI.  And this allowed pricing analysts to sit together in a room in an office which made them more effective and economical while allowing the company to realize tax incentives from the state for creating jobs.
 
-And each of us in our day do our best to create something worthwhile as we are swept along in our boat, tangentially aware of the waters river surrounds us. 
+And each of us in our day do our best to create something worthwhile as we are swept along, tangentially aware of the rushing river all around. 

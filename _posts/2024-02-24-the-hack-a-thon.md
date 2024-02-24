@@ -1,6 +1,6 @@
 ---
 layout: post
-title: the hack-a-thon
+title: The hack-a-thon
 ---
 
 Why would a product manager participate in a hack-a-thon?  This is coding for coders, a chance for engineers to build something they wanted to build while building what others want them to build.  

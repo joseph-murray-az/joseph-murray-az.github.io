@@ -14,10 +14,10 @@ StrongMind, Chandler, AZ
 Role: Senior Product Manager, August 2021 – Present
 Industry: Education
 
-Senior Product Manager for StrongMind Central platform providing services for dashboards, communities, attendance, courses and more
-- Senior product manager for new StrongMind Central portal for parents and students resulting in reusable technical components while realizing high user engagement through user interviews, targeted experiments, and iterative product marketing
-- Leader of new agile delivery model leveraging Pendo, Google Analytics, HotJar, and Launch Darkly in week-long sprints to quickly capture and incorporate user feedback and enhance user communication
-- Balanced legacy product quality and customer support efforts with strategic initiatives while delivering on promise to build trust and break down silos
+Senior Product Manager for StrongMind Central and Course Builder platform leveraging Open AI to create and deliver course materials and services for online students, parents, and communities
+- Senior product manager for initial development of StrongMind Central portal for parents and students resulting in 45%+ weekly active usage, and becoming the foundation for product expansion with dashboards, communities, and AI powered curriculum development tools
+- Product leader and trainer providing courses on analytics, product dashboards, and tools for user observations and experiments to product team
+- Product manager for two product engineering teams, one senior team leading product development, the other principal team providing architectural oversight, mentoring, and peer reviews
 
 SAP Labs, Tempe, AZ
 Role: Senior Product Manager, February 2015 - June 2021

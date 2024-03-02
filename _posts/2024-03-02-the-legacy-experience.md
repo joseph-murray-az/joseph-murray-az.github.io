@@ -6,7 +6,7 @@ title: The legacy experience
 >
 > The only thing that does not change is that at any and every time it appears that there have been great changes.
 >
-> -- Marcel Proust
+> ~Marcel Proust
 
 Sometimes the product manager lives in the past and imagines the future, for example, when in charge of a legacy product.  The term I have heard for this situation is the "classic nightmare."  I disagree.
 

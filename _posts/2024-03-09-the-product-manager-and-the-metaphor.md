@@ -9,7 +9,7 @@ From these observations, she recognized that humans crave learning, and that lea
 
 An example of a manipulative is the pink tower: a series of blocks ranging in size from one cubic centimeter to ten cubic centimeters.  Young children learn to stack these blocks from largest to smallest to create a stable structure.  
 
-Older children, having developed size discrimination, pattern recognition, and spatial awareness are able to translate this collaborative play into an understanding of the abstract concepts commonly used in algebra, geometry, and science.
+Older children, having developed size discrimination, pattern recognition, and spatial awareness are able to translate this productive play into an understanding of the abstract concepts commonly used in algebra, geometry, and science.
 
 This method, based on how we learn, by using our encounters with real physical objects, through guidance and support, to develop the ability to move from the specific to the general, the concrete to the abstract, proved wildly effective.
 

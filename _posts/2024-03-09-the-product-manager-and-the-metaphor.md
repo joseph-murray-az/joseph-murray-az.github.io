@@ -13,7 +13,7 @@ Older children, having developed size discrimination, pattern recognition, and s
 
 This method, based on how we learn, by using our encounters with real physical objects, through guidance and support, to develop the ability to move from the specific to the general, the concrete to the abstract, proved wildly effective.
 
-During her lifetime, she continued to experiment with her methods, to observed students, to take notes, and to develop a method and a school that began to compete with the Roman system popularized by the Institutio Oratoria of Quintilian almost two millennia before her time.
+During her lifetime, she continued to experiment with her methods, to observe students, to take notes, and to develop a method and a school that began to compete with the Roman system popularized by the Institutio Oratoria of Quintilian almost two millennia before her time.
 
 This was her lifetime's work, her innovation, her disruption.
 

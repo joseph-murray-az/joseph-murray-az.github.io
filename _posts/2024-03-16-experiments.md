@@ -1,12 +1,14 @@
 ---
 layout: post
-title: experiments
+title: Experiments
 keywords: experiments composition style
 ---
 
+>
 > Why compound ignorance with inaudibility?
 >
 >	~ E. B. White
+>
 
 A small book can contain all the rules, the applications of which, are infinite.  This is true for English composition, it is true for product management.  If I were to write this book, it would start with the experiment.
 

@@ -20,7 +20,7 @@ This is the starting point for a certain type of experiment:  The dumb question.
 
 Sometimes this question is best backed into:  Draw a picture and ask "Is this what you mean?"  The picture is not important; sometimes it is productive to present the wrong answer, this can serve as a trigger for discovery.
 
-When the question "why" is asked with genuine curiosity and a desire to learn, great discoveries can be made.  The path to a truly groundbreaking product can include dead-ends and U-turns, roundabouts and school zones, and sometimes looking around leads to the destination.
+When the question "why" is asked with genuine curiosity and a desire to learn, great discoveries can be made.  The road to a truly groundbreaking product can include dead-ends and U-turns, roundabouts and detours, and sometimes looking around leads to the destination.
 
 There are endless anecdotes of inexpensive experiments:  Presentation with no function, paper in place of code, manual effort rather than systemic process, and all are asking the same question:  Why am I doing this?
 

@@ -24,4 +24,4 @@ When the question "why" is asked with genuine curiosity and a desire to learn, g
 
 There are endless anecdotes of inexpensive experiments:  Presentation with no function, paper in place of code, manual effort rather than systemic process, and all are asking the same question:  Why am I doing this?
 
-At this time, in this place, with these developments, like never before, this is existential.
+At this time, in this place, amid recent developments, like never before, this is existential.

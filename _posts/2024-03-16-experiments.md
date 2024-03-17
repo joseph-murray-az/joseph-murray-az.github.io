@@ -18,7 +18,7 @@ I am asked to create a portal, a platform or a content management system, and I 
 
 This is the starting point for a certain type of experiment:  The dumb question.  When everyone in the room is brilliant, this can feel like the difficult path and yet can be the least expensive way to start.  The goal is to discover the problem and, no matter the phrasing, the question is always "Why?"
 
-Sometimes this question is best backed into:  Draw a picture and ask "Is this what you mean?"  The picture is not important; sometimes it is productive to present the wrong answer, this can serve as a trigger for discovery.
+Sometimes this question is best backed into:  Draw a picture and ask "Is this what you mean?"  The picture is not important--sometimes it is productive to present the wrong answer--this can serve as a trigger for discovery.
 
 When the question "why" is asked with genuine curiosity and a desire to learn, great discoveries can be made.  The road to a truly groundbreaking product can include dead-ends and U-turns, roundabouts and detours, and sometimes looking around leads to the destination.
 

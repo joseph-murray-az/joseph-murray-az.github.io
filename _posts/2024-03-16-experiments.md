@@ -10,7 +10,7 @@ title: Experiments
 
 A small book can contain all the rules, the applications of which, are infinite.  This is true for English composition, it is true for product management.  If I were to write this book, it would start with the experiment.
 
-Strictly speaking, the experiment is used to quantify the probability of a hypothesis.  The alternative hypothesis is the unknown, it is what you want to prove, and the null hypothesis is what you know.  The process is thus:  The hypothesis is formed, the subjects selected, the data defined, the threshold determined, the experiment run.  Once the experiment is done, the probability can be used to make an informed decision on what to do next.  This may take days, it may take years.  
+Strictly speaking, the experiment is used to quantify the probability of a hypothesis.  The alternative hypothesis is the unknown, it is what you want to prove, and the null hypothesis is what you know.  The process is thus:  The hypothesis is formed, the subjects selected, the data defined, the threshold determined, the experiment run.  Once the experiment is done, the probability can be used to make an informed decision on what to do next.  This may take weeks, it may take years.  
 
 But I ain't got time for that.
 

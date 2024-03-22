@@ -14,7 +14,7 @@ Strictly speaking, the experiment is used to quantify the probability of a hypot
 
 But I ain't got time for that.
 
-I am asked to create a portal, a platform or a content management system, and I am behind schedule.  I am compelled to get to work, without a problem to solve or a vision to achieve.
+I am asked to create a portal, a platform, or a content management system, and I am behind schedule.  I am compelled to get to work, without a problem to solve or a vision to achieve.
 
 This is the starting point for a certain type of experiment:  The dumb question.  When everyone in the room is brilliant, this can feel like the difficult path and yet can be the least expensive way to start.  The goal is to discover the problem and, no matter the phrasing, the question is always "Why?"
 

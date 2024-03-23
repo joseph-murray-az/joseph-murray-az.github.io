@@ -8,7 +8,7 @@ title: Product manager as one-person team
 >~Ecclesiastes 1:10
 >
 
-My father retired from the university, moved to the mountains, built a house, and declared himself a member of the "lead pencil club."  He spent the better part of his winter days reading and writing; for the latter, he *actually* used a pen, and sometimes an old typewriter.  He did not own a television, much less a computer, and I doubt he ever browsed the internet.  If he were alive today, artificial intelligence would have had no effect on him.
+My father retired from the university, moved to the mountains, built a house, and declared himself a member of the "lead pencil club."  He spent the better part of his winter days reading and writing; for the latter, he *actually* used a pen, and sometimes an old typewriter.  He did not own a television, much less a computer, and I doubt he ever browsed the internet.  If he were alive today, artificial intelligence would have had no effect on him. 
 
 But this is not true for the rest of us, especially those practicing the art of product management.  Advancements in computational systems with one or more abilities to perceive, learn, reason, and act in the world are astounding.  Companies that have not done so already are announcing plans for products and features based on machine learning or artificial intelligence.  And with the availability of generative models, engineers, designers, data analysts, and product managers are now able to automate many of our repetitive tasks allowing us to be more responsive and productive.
 

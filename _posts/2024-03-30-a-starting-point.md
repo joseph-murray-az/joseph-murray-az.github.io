@@ -16,5 +16,5 @@ These exercises might be throwaways once you get started on your first draft, al
 > Using word association to generate a list of words is a creative technique that can spark inspiration and facilitate brainstorming. By starting with words like "word," "text," and "paragraph," one can quickly expand the list by associating related terms such as "organize," "group," "classify," "express," "process," and "generate."  Grouping these words according to topic enables a more organized approach to writing.
 >	
 > ~ChatGPT 3.5 based on the works of Anonymous
-	
+
 This is the right thought, the right action, the right effort, and failure does not exist.

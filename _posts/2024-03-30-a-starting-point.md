@@ -17,4 +17,4 @@ These exercises might be throwaways once you get started on your first draft, al
 >	
 > ~ChatGPT 3.5 based on the works of Anonymous
 
-This is right thought, right action, right effort, and failure does not exist.
+This is right thought, right effort, right action, and failure does not exist.

@@ -3,7 +3,7 @@ layout: post
 title: A starting point
 ---
 
-You may be asked to create a product brief for a problem that has not been articulated.  We often describe solutions when we think we are describing an obstacle.  Our customers are subject to this behavior as well:  They are unreliable narrators.  To make matters worse, there are deadlines and, like the trains in Tokyo Station, the doors are closing and the train is going to leave the platform, whether you are ready or not.  But even in this case, a product brief is like any other writing project, it is a tool for discovery and often you just need a way to start.
+You may be asked to create a product brief for a problem that has not been articulated.  We often describe solutions when we think we are describing an obstacle.  Our customers are subject to this behavior as well:  They are unreliable narrators.  To make matters worse, there are deadlines and, like the trains in Tokyo Station, the doors will close, whether you are ready or not.  But even in this case, a product brief is like any other writing project, it is a tool for discovery and often you just need a place to start.
 
 An effective technique for getting started is to play word association.  You start by writing the first word that comes to mind, then attempting to write an associated word, and continuing this process with subsequent associated words until your allotted time is up.  The purpose is to warm-up your brain, to activate the neural pathways, and to reveal the portion of your unconscious mind that is so effective at solving problems. 
 

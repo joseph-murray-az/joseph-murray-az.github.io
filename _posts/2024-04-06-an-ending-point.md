@@ -4,6 +4,8 @@ title: An ending point
 tags: [product brief, data visualization, hypothesis testing]
 ---
 
+![testing image](/assets/images/pexels-adrien-olichon-2387793.jpg)
+
 My previous post covered the product brief, which is the starting point for a new product or feature, and introduced word association as a method to help get started.  Another part of the product brief, and probably the most important, is the measures of success.  This requires data.  And unlike word association where the goal is to generate more thoughts or data points, for data it is often the sheer volume that hides the relations.  The goal is to summarize the data in order to formulate a hypothesis.  
 
 So how is this done?  Large organizations often hire data analysts that can help the product manager to select and analyze data.  But for a small, fast moving organization, this type of support is rarely available.  In addition, for a prototype or new innovation, empirical evidence or instinct might even be preferred to avoid the delays required for formal data analysis.  In these cases, quick experiments can be used to determine if a feature based on a personal opinion is worth pursuing.  But as more people join the effort and the cost of mistakes increases, the savings that can be realized from the additional effort for validation can be worthwhile.

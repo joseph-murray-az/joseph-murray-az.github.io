@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A starting point
+tags: [product brief, problem solving, effective writing]
 ---
 
 You may be asked to create a product brief for a problem that has not been articulated.  We often describe solutions when we think we are describing an obstacle.  Our customers are subject to this behavior as well:  They are unreliable narrators.  To make matters worse, there are deadlines and, like the trains in Tokyo Station, the doors will close, whether you are ready or not.  But even in this case, a product brief is like any other writing project, it is a tool for discovery and often you just need a place to start.

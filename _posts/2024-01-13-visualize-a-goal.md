@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Visualize a goal
+tags: [organizational performance, goal alignment, visionary leadership]
 ---
 
 Imagine an organization at its best, efficient and productive, innovative and fun, strategic and successful.  What would this require?

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Setup to measure
+tags: [product vision, metrics tracking, tool adoption]
 ---
 
 Product management requires you to understand the company and the how the products of that company support the vision, not just for your company, but for partner companies as well.  For example, when choosing even free products from Google, it is helpful to understand that the purpose of these products is to provide data intended for advertisers.  This, I believe, is why Google Analytics 4 (GA4) is preconfigured for measuring the effectiveness of funnels and conversions.

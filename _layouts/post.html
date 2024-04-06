@@ -13,6 +13,12 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
+  <div class="disqus">
+    <p>
+      {% include disqus.html %}  
+    </p>
+  </div>
+
   <div class="tag-group">
     {% for tag in page.tags %}
     <div class="tag">
@@ -21,12 +27,6 @@ layout: default
       </span>
     </div>
     {% endfor %}
-  </div>
-
-  <div>
-    <p>
-      {% include disqus.html %}  
-    </p>
   </div>
   
 </article>

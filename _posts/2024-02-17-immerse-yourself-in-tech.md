@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Immerse yourself in tech
+tags: [holistic product management, user experience, beyond surface]
 ---
 
 Good product managers immerse themselves in technology and are able to bring a variety of points into product discussions, they know what they like about different user experiences, they recognize common patterns, and they can speak product.  These skills are particularly useful for communicating with designers, moderating design discussions, and creating "delighters" that are fun to demo, to announce, to release.

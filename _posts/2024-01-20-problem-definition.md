@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Problem definition  
+title: Problem definition
+tags: [problem definition, iterative discovery, success criteria]
 ---
 
 If the most expensive defect in software code comes from a poor requirement, then it follows that the most expensive defect in a software product comes from poor problem definition.  This can also be expressed as missing the market.

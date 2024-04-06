@@ -2,7 +2,7 @@ title: Joseph Murray, Senior Product Manager
 description: User site for Joseph Murray, Senior Product Manager
 show_downloads: false
 google_analytics: false
-disqus: false
+disqus: true
 theme: jekyll-theme-cayman
 linkedin: "https://www.linkedin.com/in/joseph-murray-az/"
 email: "joseph.murray.az@gmail.com"

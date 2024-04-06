@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An ending point
-tags: Product Brief, Data Visualization, Hypothesis Testing
+tags: [Product Brief, Data Visualization, Hypothesis Testing]
 ---
 
 My previous post covered the product brief, which is the starting point for a new product or feature, and introduced word association as a method to help get started.  Another part of the product brief, and probably the most important, is the measures of success.  This requires data.  And unlike word association where the goal is to generate more thoughts or data points, for data it is often the sheer volume that hides the relations.  The goal is to summarize the data in order to formulate a hypothesis.  

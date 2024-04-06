@@ -11,11 +11,6 @@ layout: default
 
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
-
-    <p>  
-      {% include disqus.html %}  
-    </p>
-    
   </div>
 
   <div class="tag-group">
@@ -26,6 +21,12 @@ layout: default
       </span>
     </div>
     {% endfor %}
+  </div>
+
+  <div>
+    <p>
+      {% include disqus.html %}  
+    </p>
   </div>
   
 </article>

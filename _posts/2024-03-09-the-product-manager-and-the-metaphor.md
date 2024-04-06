@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The product manager and the metaphor
+tags: [education legacy, learning approach, concrete to abstract]
 ---
 
 In 1897, Dr. Maria Montessori visited Rome’s asylums for children with mental disorders.  It was there she observed that these children, sitting in their barren rooms, given nothing to keep them occupied, would invent games using crumbs of food leftover from mealtimes.

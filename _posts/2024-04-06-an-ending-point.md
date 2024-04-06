@@ -1,7 +1,6 @@
 ---
 layout: post
 title: An ending point
-categories: Product Management, Data Analysis, Professional Development
 tags: Product Brief, Data Visualization, Hypothesis Testing
 ---
 

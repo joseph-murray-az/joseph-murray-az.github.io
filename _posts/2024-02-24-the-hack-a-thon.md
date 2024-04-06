@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The hack-a-thon
+tags: [hackathon participation, learning methods, strategic experimentation]
 ---
 
 Why would a product manager participate in a hack-a-thon?  This is coding for coders, a chance for engineers to build something they wanted to build while building what others want them to build.  

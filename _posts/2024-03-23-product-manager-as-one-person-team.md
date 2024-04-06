@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Product manager as one-person team
+tags: [ai advancements, leveraging technology, team collaboration]
 ---
 
 >Is there any thing whereof it may be said, See, this is new? it hath been already of old time, which was before us.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The legacy experience
+tags: [legacy product, historical lessons, future experience]
 ---
 
 >

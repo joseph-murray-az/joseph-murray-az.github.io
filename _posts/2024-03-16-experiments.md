@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Experiments
+tags: [experimental innovation, problem solving, asking questions]
 ---
 
 >

@@ -17,5 +17,14 @@ layout: default
     </p>
     
   </div>
+
+  <div class="tag-group">
+    {% for tag in page.tags %}
+      <div class="tag">
+        <span class="tag-text">
+          <a href="#">{{ tag }}</a>
+        </span>
+      </div>
+  </div>
   
 </article>

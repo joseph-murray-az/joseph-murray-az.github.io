@@ -19,12 +19,13 @@ layout: default
   </div>
 
   <div class="tag-group">
-    {% assign tags = page.tags | split:&nbsp; %}
-    <ul>
-      {% for tag in tags %}
-      <li>{{ tag }}</li>
-      {% endfor %}
-    </ul>
+    {% for tag in page.tags %}
+    <div class="tag">
+      <span class="tag-text">
+        <li>{{ tag }}</li>
+      </span>
+    </div>
+    {% endfor %}
   </div>
   
 </article>

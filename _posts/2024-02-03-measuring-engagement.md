@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Measuring engagement
+tags: [outcome focus, engagement metrics, data driven]
 ---
 
 In my current field, education technology, the ultimate goal is to positively impact student outcomes.  In other words, to increase student graduation rates, reduce dropouts, improve attendance, elevate grades and scores.  

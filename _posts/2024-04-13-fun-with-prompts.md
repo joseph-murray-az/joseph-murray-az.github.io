@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Fun with prompts
+tags: [language models, tool use, inflection point]
 ---
 
 Like most in tech, I set out to learn more about the latest developments in artificial intelligence.  This field seems new, although it has been around for a while.  In fact, during my undergraduate studies in the last millennium, I took my first AI class.  We used Lisp or Prolog or some such language, all I remember now from my "intelligent car dealer" application is a cascade of if statements:  If four wheels, if four doors, if sedan, etc.  Yet, despite this academic experience using "cutting edge" technologies, and contrary to my professor's opinion of the future of the workplace, after graduating, I spent the next five years writing mainframe assembler language code.  

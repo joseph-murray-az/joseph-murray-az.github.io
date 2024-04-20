@@ -12,11 +12,27 @@ One of the features that we added to this editor was the ability to include math
 
 When rendered, these characters appear as:
 
-$|P| = 2^n$  
+$$
+|P| = 2^n
+$$  
 
 $\sqrt{3x-1}+(1+x)^2$  
 
+$|P| = 2^n$
+
+$|P|=2^n$
+
 $\|P| = 2^n$  
+
+$`\|P| = 2^n`$
+
+This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
+
+This sentence uses $\` and \`$ delimiters to show math inline:  $`\sqrt{3x-1}+(1+x)^2`$
+
+```math
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
+```
 
 A specific problem that was raised was that not all users were familiar with the LaTeX syntax, so we were asked to add a popup formula keyboard to help these users be more efficient.  Since most of the group had been trained, this was a specific (and likely temporary) problem that applied to only a subset of the group.  
 

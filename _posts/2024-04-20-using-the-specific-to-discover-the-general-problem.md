@@ -8,11 +8,16 @@ Borrowing a concept from philosophy, I believe that the product manager should a
 
 One of the features that we added to this editor was the ability to include mathematical formulas using LaTeX, which is a syntax that allows plain characters to be rendered using symbols.  For example, the formula to calculate the size of a power set given n elements can be constructed in plain text as:
 
-\|P| = 2^n
+\|P\| = 2^n
 
 When rendered, these characters appear as:
 
 $|P| = 2^n$
+
+$ |P| = 2^n $
+
+$$ |P| = 2^n $$
+
 
 A specific problem that was raised was that not all users were familiar with the LaTeX syntax, so we were asked to add a popup formula keyboard to help these users be more efficient.  Since most of the group had been trained, this was a specific (and likely temporary) problem that applied to only a subset of the group.  
 

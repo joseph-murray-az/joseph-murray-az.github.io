@@ -16,8 +16,6 @@ $$
 |P| = 2^n 
 $$
 
-\[x^2+1\]
-
 A specific problem that was raised was that not all users were familiar with the LaTeX syntax, so we were asked to add a popup formula keyboard to help these users be more efficient.  Since most of the group had been trained, this was a specific (and likely temporary) problem that applied to only a subset of the group.  
 
 The effort to add a keyboard was fairly low.  Once we settled on the 15 symbols that could be used to construct basic math operations, including arithmetic, exponentiation, logarithms, trigonometric functions, basic algebraic equations, and basic geometry formulas, we estimated the implementation would take less than a day.  

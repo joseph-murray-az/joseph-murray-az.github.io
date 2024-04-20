@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Using the specific to discover the general problem
+tags: [software design, latex syntax, feature prioritization]
 ---
 
 Borrowing a concept from philosophy, I believe that the product manager should aim towards discovery of the general even as we work on specific problems.  A specific problem may be an issue described by a single user, perhaps communicated through a support ticket, or it might be a problem experienced by a single group or subgroup.  The general problem, on the other hand, is experienced by all users, or even by all people.  Since I am currently working on a markdown editor, I will use this as an example.

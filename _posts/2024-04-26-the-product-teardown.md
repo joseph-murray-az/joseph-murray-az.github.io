@@ -4,7 +4,7 @@ title: The product teardown
 tags: [Product, teardown, features]
 ---
  
-The concept of the product teardown comes from the electronics industry where practitioners disassembled physical products into their component parts in order to learn, among other things, how the parts contribute to the whole.  But the creation of software, as the manifestation of logic, is more abstract.  While a software product is often made up of component parts, the idea of taking this type of product apart is more metaphor than practice, especially for the product manager, who is less concerned with the inner workings of things than the user experience.
+The concept of the product teardown comes from the electronics industry where practitioners disassembled physical products into their component parts in order to learn, among other things, how the parts contribute to the whole.  But the creation of software, as the manifestation of logic, is more abstract.  While a software product is often made up of component parts, the idea of taking this type of product apart is more metaphor than practice, especially for the product manager, who is less concerned with the inner workings of things than the experience of the user.
  
 For this purpose, the product experience is best experienced.  In other words, the best way to evaluate a product is to use it.  When using the product, take the entire user lifecycle into account from onboarding to active usage, along with pricing and measures of value.  Some questions to ask might include:
  

@@ -4,9 +4,9 @@ title: Cheap solutions
 tags: [cheap, quick, direction]
 ---
 
-> Who can prove the non-existence of a cause by experience when all that it teaches is that we do not perceive one?
+>Who can prove the non-existence of a cause by experience when all that it teaches is that we do not perceive one?
 > 
->	~ Kant, Groundwork
+>~Kant, Groundwork
 >
 
 Often product direction comes from those who pay the bills, or their representatives, and it seems difficult to change direction even when good money follows bad.  Yet, regardless of the source, bad product decisions reflect poorly on the product manager.  So what is the best approach when product direction runs contrary to strategy, empathy, and intuition?

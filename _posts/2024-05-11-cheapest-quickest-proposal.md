@@ -8,6 +8,7 @@ Tags: [cheap, quick, direction]
 >
 >~Kant, The Groundwork
 >
+
 Often product direction comes from those who pay the bills, or their representatives, and it seems difficult to change direction even when good money follows bad.  Yet, regardless of the source, poor product decisions reflect poorly on the product manager.  So what is the best approach when product direction runs contrary to strategy, empathy, and intuition?
 
 To be honest, my inclination is to fault leadership.  This is common, in fact there is a name for this tendency:  The fundamental attribution error.  I think that bad decisions made by others are due to character rather than context--in context, there may be a good reason for a seemingly bad decision.  We do not always know why a decision is made, but there is a powerful way to manage unclear product direction before too much damage occurs and this is by choosing the cheapest possible solution.

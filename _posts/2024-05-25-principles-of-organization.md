@@ -7,7 +7,7 @@ Tags: [energy, entropy, lifecycle]
 >The greatest gift you can give to someone is something worthwhile to do.
 >
 >~John D. Rockefeller
->
+
 In high school chemistry, I learned of the second law of thermodynamics which states that all systems move from higher energy to higher entropy.  We see this in play all around us in the physical world:  Things fall apart.  A cup falls from the table and shatters on the floor.  If time were reversed, the shards would rise from the floor to reform the cup.  But this is not what happens.  In this world, time moves in one direction:  The cup is made as energy is released, the cup is broken as entropy takes over.  This also known as the arrow of time.  
 
 The arrow of time is the reason for the product manager to exist.  In our world, there is a product lifecycle from idea and implementation through maturation and product decline.  This reflects the rise and fall of energy, the fall and rise of entropy.  The constant throughout these cycles is the effort required to achieve higher organization in the face of rising entropy.  This leads to some important practices.

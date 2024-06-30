@@ -16,4 +16,4 @@ There are other times when all I can imagine is the end. At the start of this we
 
 Although never done, this feels significant. I have been able to maintain a thread on the subject of product management for half a year. Without ideas, even appearances, only a guess at where I might be heading, I see a lane from one side to the other, and I am mid-stroke with my head raised, aiming towards the other shore.
 
-And I am somewhere in the middle.
+And I am somewhere in the middle. 

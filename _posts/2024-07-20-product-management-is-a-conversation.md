@@ -4,7 +4,7 @@ title: Product management is a conversation
 tags: [writing, speaking, building]
 ---
 
-Product management in practice is a conversation which may take place in person or through a variety of media.  The forms of this conversation are varied and can be formal or informal.  But regardless, whether a formal product brief or presentation, or an informal chat or off-the-cuff response, a message that is clear, concise, coherent, and relevant reduces misunderstandings.  
+Product management in practice is a conversation which may take place in person or through a variety of media.  The forms of this conversation are varied and can be formal or informal.  Regardless, whether a formal product brief or presentation, or an informal chat or off-the-cuff response, a message that is clear, concise, coherent, and relevant reduces misunderstandings.  
 
 **Why is this important?**
 

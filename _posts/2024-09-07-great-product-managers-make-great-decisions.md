@@ -26,7 +26,7 @@ Once you have made a decision, if it affects the stakeholders, it is good practi
 
 Lastly, for a decision to be considered great, it should lead to some type of effect—otherwise, why was it needed in the first place? This effect can be either positive or negative. Decisions that result in only positive outcomes would be easy to make, but these are rare. If the outcome were so obvious, what would anyone outside the situation need to decide?
 
-Instead, important decisions often involve tradeoffs and result in mixed effects, with outcomes that are both positive and negative. While it may seem counterintuitive, even decisions that lead to a negative outcomes, such as those that allow us to learn something valuable when no other option was available, can be considered great.  After all, we never would have known without trying!
+Instead, important decisions often involve tradeoffs and result in mixed effects, with outcomes that are both positive and negative. While it may seem counterintuitive, even decisions that lead to negative outcomes, such as those that allow us to learn something valuable when no other option was available, can be considered great.  After all, we never would have known without trying!
 
 **Great decisions are not easy**
 

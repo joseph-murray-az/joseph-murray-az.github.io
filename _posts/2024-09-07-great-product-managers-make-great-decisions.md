@@ -20,13 +20,13 @@ There are even decisions that ought to be postponed.  For example, you may get i
 
 Alignment is easy to conceptualize and difficult to realize, especially when answering to stakeholders who have different agendas, goals, and drivers.  For these and other reasons, “decision by committee” rarely results in good, much less great, decisions.  In general, the best decisions are informed by those closest to the problem.  For a new product, this often requires collaboration between the product manager, designer, and engineers.  Engineers are often the ones best placed to provide the details and options needed for a great decision.  
 
-Once you have made a decision, if the decision affects the stakeholders, it is good practice to communicate the decision--and the reason for the decision--especially to those invested in the results, and make sure to include any benefits.  It is also good to keep an open mind: Even stakeholders that are not close to the problem may have information that could change your mind.  Of course, discretion in communication is also important, it is not always necessary to communicate every decision to everyone--this can result in noise: Who needs to know is yet another decision you need to make.
+Once you have made a decision, if it affects the stakeholders, it is good practice to communicate the decision--and the reason for the decision--especially to those invested in the results, and make sure to include any benefits.  It is also good to be flexible: Even stakeholders that are not close to the problem may have information that could change your mind.  Of course, discretion in communication is also important, it is not always necessary to communicate every decision to everyone--this can result in noise: Who needs to know is yet another decision you need to make.
 
 **Great decisions are effective**
 
 Lastly, for a decision to be considered great, it should lead to some type of effect—otherwise, why was it needed in the first place? This effect can be either positive or negative. Decisions that result in only positive outcomes would be easy to make, but these are rare. If the outcome were so obvious, what would anyone outside the situation need to decide?
 
-Instead, important decisions often involve tradeoffs and result in mixed effects, with outcomes that are both positive and negative. While it may seem counterintuitive, a decision can lead to negative outcomes, such as failures or setbacks. Yet, if the decision allows us to learn something valuable when no other option was available, we might still conclude that it was a great decision in the end—after all, we never would have known without trying!
+Instead, important decisions often involve tradeoffs and result in mixed effects, with outcomes that are both positive and negative. While it may seem counterintuitive, even decisions that lead to a negative outcomes, such as those that allow us to learn something valuable when no other option was available, can be considered great.  After all, we never would have known without trying!
 
 **Great decisions are not easy**
 

@@ -6,7 +6,7 @@ tags: [decisions, makers, managers]
 
 The role of product manager can vary between companies, products, and teams, so how do you prepare for this role?  I have seen successful product managers that come from a variety of backgrounds, and each individual brings different characteristics and skills that contribute to their success.  Given this variety, I believe the most important ability for the role is the ability to make great decisions.  
 
-As a product manager, you frequently encounter tradeoffs, questions, blocks, and ambiguous situations which require decisions, thus the ability to make great decisions is a fundamental skill.  Are great decisions correct decisions?  Not always.  The need to always be right does not equate to correct decisions, and incorrect decisions play their part in the learning process anyway.  Instead, great decisions are those that are timely, aligned, and effective.
+As a product manager, you frequently encounter tradeoffs, questions, blocks, and ambiguous situations which require decisions, thus the ability to make great decisions is a fundamental skill.  Are great decisions correct decisions?  Not always.  The need to always be right does not equate to always being right, and incorrect decisions play their part in the learning process anyway. Instead, great decisions are those that are timely, aligned, and effective.
 
 **Great decisions are timely**
 

@@ -22,7 +22,7 @@ The need for a plan applies when it comes to sifting through collections of data
 
 **Too little data**
 
-It is rare to work in a software organization that has too little data, but not uncommon for the data you need to be missing or unaccessible.  Also, and perhaps surprising, product managers are not always able to access  their users for many reasons--privacy laws can come into play, managers may need to protect their people from interruptions, and users may be distant or indistinguishable.  As with everything, we have to use what is available and be resourceful, for example a screenshot loaded into an AI chat session can sometimes yield surprising results.
+It is rare to work in a software organization that has too little data, but not uncommon for the data you need to be missing or inaccessible.  Also, and perhaps surprising, product managers are not always able to access  their users for many reasons--privacy laws can come into play, managers may need to protect their people from interruptions, and users may be distant or indistinguishable.  As with everything, we have to use what is available and be resourceful, for example a screenshot loaded into an AI chat session can sometimes yield surprising results.
 
 **What are the jobs to be done?**
 

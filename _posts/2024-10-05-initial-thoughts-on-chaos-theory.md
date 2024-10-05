@@ -30,4 +30,4 @@ While there might be benefits to understanding system patterns for those that us
 
 <sup>3</sup> https://www.its.caltech.edu/~matilde/LiYorke.pdf
 
-<sup>4</sup> https://science.howstuffworks.com/math-concepts/chaos-theory6.htm![image](https://github.com/user-attachments/assets/c86185c9-ed11-4c85-abae-2ce4bf129534)
+<sup>4</sup> https://science.howstuffworks.com/math-concepts/chaos-theory6.htm

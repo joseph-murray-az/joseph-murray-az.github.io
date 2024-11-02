@@ -18,9 +18,9 @@ The Amazon Bedrock Playgrounds now includes Text and Chat.  Text is described as
 
 Our prompt validation above tests a single turn exchange:  The prompt provides the data that will be used for the exchange along with instructions to the model.  These instructions include the persona, steps for data preparation, guardrails, and the initial user input for the exchange.  As a best practice, XML tags are used to separate each part of the prompt as:
 
-- <document>text</document>
-- <rules>instructions</rules>
-- BEGIN DIALOG User:  Why does this matter?
+- <document&gt;text</document&gt;
+- <rules&gt;instructions</rules&gt;
+- BEGIN DIALOG User:  Question about the document?
 
 The model then processes the document according to the instructions to prepare for answering questions, answers the first question from the “user,” and then is ready for the conversation.  Once the user engages, the exchange takes another turn and thus becomes multi turn, which introduces the need for additional validation.
 

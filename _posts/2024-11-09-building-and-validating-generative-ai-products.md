@@ -45,3 +45,5 @@ To enable faster iteration, validation should be automated. One method is to pas
 The field of generative AI application validation is still emerging. Efforts are underway to create frameworks similar to standard unit test frameworks like JUnit. As this area develops, we can expect more sophisticated tools and methodologies to emerge.
 
 In the words of Mr. Incredible, "We'll get there when we get there!" The journey of generative AI product development is ongoing, and as we continue to refine our approaches, we'll undoubtedly discover new and improved ways to build and validate these powerful tools.
+
+Note:  These last three posts were written real-time during research and discovery which is being performed on a compressed schedule.  Along with highly distressing world events this week have taken time away from editing, have resulted in posts that will require rework which I am choosiing to postpone at the moment.

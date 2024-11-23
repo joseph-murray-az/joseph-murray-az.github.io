@@ -24,7 +24,7 @@ The capture of conversations can lead to trust and privacy concerns.  This can b
 
 That being said, the capture and analysis of conversations is important not just for improving the chatbot but for the safety of users as well.  For an AI powered tutor, the ability to review conversations is necessary in case a student expresses dark or violent thoughts.  In the real-world, perceptive teachers are able to detect unsafe situations and intervene on the behalf of students, to provide help, support, and protection.  But in the online world, outside of live sessions, the only means a teacher might have to recognize when a student is facing a difficult or even dangerous situation is through the monitoring and flagging of conversations.
 
-Conversation analysis
+**Conversation analysis**
 
 The second reason to capture conversations is to enable conversation analysis.  This is a growing practice that is particularly applicable to the creation of safe chatbots.  However, since this is a topic unto itself, I will save an explanation of conversation analysis until my next post.
 

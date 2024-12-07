@@ -7,7 +7,8 @@ tags: [frameworks, marketing, advice]
 > If the organizational structure is threatening in any way, nothing is going to be documented until it is completely defensible.
 >
 > ~Fredrick Brooks, The Mythical Man Month
-> 
+>
+
 Great stories consist of a hero, the building of a conflict, a sudden realization or epiphany, followed by the change necessary for resolution.  The Odyssey illustrates this:  When Odysseus finds his wife and kingdom threatened by the suitors, disguised as a beggar, he realizes his adventures as a war hero did not prepare him as the strategist that he must become.  The techniques used to engage readers include the compression of time, elimination of irrelevant details, and amplification of events.
 
 Though amplified, the gods and mythical creatures are founded in truth—and there are parallels between the hero’s journey and life experiences.  We may not be exposed to the song of the sirens, but we all experience temptations, though probably in more mundane forms like ice cream and chocolate bars (and other things found in bars).  Just as there are parallels between the story of Odysseus and real life, there are similar parallels between the stories told by founders and the daily work of product managers.  The stories are often nicely packaged; the daily work is often a mess. If you are reading articles and books on product management, then taking what you learned to the office, you may have noticed that the ideal often clashes with the real.

@@ -32,4 +32,4 @@ I do love writing: Next year, I hope to learn to love editing as well; and to em
 
 **Epanadiplosis**
 
-At the start of this blog, I used the metaphor of a river, which provides the banks that constrain the water and sets the course towards an unknown destination somewhere ahead.  There is only one known location in the world where a river flows from south to north, at a singular point in India, but none where it circles back on itself.  Similarly, the arrow of time, to the best of our experience, points one way.  And from where I sit, or perhaps when, this arrow is heading towards another day as we approach the mists which conceal the upcoming new year.
+At the start of this blog, I used the metaphor of a river, which provides the banks that constrain the water and set the course toward an unknown destination ahead. From where I sit—or perhaps when—the water rushes ever faster as we ferry toward the mists of the upcoming new year.

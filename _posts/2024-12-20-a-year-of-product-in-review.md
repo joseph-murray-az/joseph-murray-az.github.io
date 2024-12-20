@@ -26,9 +26,9 @@ Of course, it is much easier to publish when you have no readers:  Turns out, wh
 
 Although I have published this blog as if it were a finished work, this is only the raw material for something new.  There are many potential ways to combine this material--by category, by style, by topic--in order to create something better, more fluid, and more fun to read.
 
-As preparation, my working theory from all of this is that great products are largely discovered by accident, and that regular product practice increases the likelihood of the occurrence of these accidents.  And this may be the starting point for what comes next.
+As preparation, my working theory is that great products are largely discovered by accident, and that regular product practice increases the likelihood of the occurrence of these accidents.  And this may be the starting point for what comes next.
 
-I do love writing: Next year, I hope to learn to love editing as well.  And to embrace, or at least tolerate, marketing.
+I do love writing: Next year, I hope to learn to love editing as well; and to embrace, or at least tolerate, marketing.
 
 **Epanadiplosis**
 

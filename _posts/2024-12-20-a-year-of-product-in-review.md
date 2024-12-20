@@ -32,4 +32,4 @@ I do love writing: Next year, I hope to learn to love editing as well; and to em
 
 **Epanadiplosis**
 
-At the start of the year, I used the metaphor of a river, which provides the banks that constrain the water and set the course toward an unknown destination ahead. From where I sit—or perhaps when—the water rushes ever faster as we ferry toward the mists of the upcoming new year.
+At the start of the year, I used the metaphor of a river, which provides the banks that constrain the water and set the course toward an unknown destination ahead. From where I now sit—or perhaps when—the water rushes ever faster as we ferry toward the mists of the upcoming new year.

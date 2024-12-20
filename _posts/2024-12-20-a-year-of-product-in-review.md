@@ -16,7 +16,7 @@ In addition, the reflection on what I am doing--while I am doing it--has caused 
 
 **What could I improve?**
 
-In rereading my posts, I noticed extraneous material and awkward phrasing.  At the time, in the moment, what seems novel can later seem to be more of a distraction that an integral part of the work--and these moments can diminish the voice of authority and erode the foundation of the argument. The only cure may be less time writing, more time cutting and condensing what has been written.
+In rereading my posts, I noticed extraneous material and awkward phrasing.  At the time, in the moment, what seems novel can later seem to be more of a distraction than an integral part of the work--and these moments can diminish the voice of authority and erode the foundation of the argument. The only cure may be less time writing, more time cutting and condensing what has been written.
 
 Even so, I have learned to be less afraid of publishing the imperfect.  If there is one thing I have learned from product, you can't let the perfect get in the way of the good, especially when it comes to learning what works.
 

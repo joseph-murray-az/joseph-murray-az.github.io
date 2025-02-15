@@ -2,14 +2,31 @@
 layout: default
 ---
 
-<article class="post">
+<article class="essay">
   <h1>{{ page.title }}</h1>
 
-  {% for essay in site.essays %}
-    <article>
-      <h2><a href="{{ essay.url }}">{{ essay.title }}</a></h2>
-      <p>{{ essay.excerpt }}</p>
-      <a href="{{ essay.url }}">Read More</a>
-    </article>
-  {% endfor %}
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
+  <div class="disqus">
+    <p>
+      {% include disqus.html %}  
+    </p>
+  </div>
+
+  <div class="tag-group">
+    {% for tag in page.tags %}
+    <div class="tag">
+      <span class="tag-text">
+        <li>{{ tag }}</li>
+      </span>
+    </div>
+    {% endfor %}
+  </div>
+  
 </article>

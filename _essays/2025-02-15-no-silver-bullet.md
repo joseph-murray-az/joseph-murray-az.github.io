@@ -1,11 +1,8 @@
 ---
-title: "No silver bullet, or werewolves, only humans"
-date: 2025-02-14
-layout: post
-permalink: /essays/no-silver-bullet/
+layout: essay
+title: No silver bullet, or werewolves, only humans
+tags: [product management insights, continuous evolution, product management journey]
 ---
-
-# No silver bullet, or werewolves, only humans
  
 ### Abstract
  

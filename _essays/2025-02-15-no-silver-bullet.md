@@ -1,10 +1,10 @@
 ---
 layout: essay
 title: No silver bullet, or werewolves, only humans
-tags: [product management insights, continuous evolution, product management journey]
+tags: [engineering, productivity, product]
 ---
 
-### Abstract
+**Abstract**
 
 Of the essays written by Frederick Brooks that make up the Mythical Man Month, perhaps the most famous is "No Silver Bullet: Essence and Accidents in Software Engineering."  In this essay, Brooks categorizes the tasks required to create software systems as essential or accidental and argues that expectations of future order of magnitude efficiencies that were realized by optimizing the accidental tasks were no longer realistic.  Instead, future gains would need to come from improvements in the essential tasks. 
 

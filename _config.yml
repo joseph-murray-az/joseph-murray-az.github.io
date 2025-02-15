@@ -6,7 +6,3 @@ disqus: true
 theme: jekyll-theme-cayman
 linkedin: "https://www.linkedin.com/in/joseph-murray-az/"
 email: "joseph.murray.az@gmail.com"
-collections:
-  essays:
-    output: true
-    permalink: /essays/:title/

@@ -5,7 +5,7 @@ permalink: /essays/
 ---
 
 <div class="essays">
-  {% for post in site.essays %}
+  {% for essay in site.essays %}
     <article class="essay">
 
       <h1><a href="{{ site.baseurl }}{{ essay.url }}">{{ essay.title }}</a></h1>

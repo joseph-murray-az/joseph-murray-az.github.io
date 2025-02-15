@@ -2,12 +2,14 @@
 layout: default
 ---
 
-<h1>Essays</h1>
+<article class="post">
+  <h1>{{ page.title }}</h1>
 
-{% for essay in site.essays %}
-  <article>
-    <h2><a href="{{ essay.url }}">{{ essay.title }}</a></h2>
-    <p>{{ essay.excerpt }}</p>
-    <a href="{{ essay.url }}">Read More</a>
-  </article>
-{% endfor %}
+  {% for essay in site.essays %}
+    <article>
+      <h2><a href="{{ essay.url }}">{{ essay.title }}</a></h2>
+      <p>{{ essay.excerpt }}</p>
+      <a href="{{ essay.url }}">Read More</a>
+    </article>
+  {% endfor %}
+</article>
